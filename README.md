@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Exploring: Data Analytics | Frontend Devloper<br><br>📚 Expertise: Data Collection | Data Cleaning | Data Analysis | Data Visualization<br><br>🧰 Toolbox: MS Excel | SQL | Python | Power BI | DAX | Power Query | HTML | CSS | Bootstrap |<br><br>💬 Ask me about: Excel | SQL | Power BI | Python<br><br>🔗 LinkedIn: [https://www.linkedin.com/in/SaurabhKumar211195 /]<br><br>📫 How to reach me kumar.saurabh211195@gmail.com<br><br>❤️ Passionate About: Learning and exploring new things!<br><br>🌟 Fun Fact: Transitioned from engineering to a data analyst professional
+🔭 Exploring: Data Analytics | Frontend Developer<br><br>📚 Expertise: Data Collection | Data Cleaning | Data Analysis | Data Visualization<br><br>🧰 Toolbox: MS Excel | SQL | Python | Power BI | DAX | Power Query | HTML | CSS | Bootstrap |<br><br>💬 Ask me about: Excel | SQL | Power BI | Python<br><br>🔗 LinkedIn: [https://www.linkedin.com/in/SaurabhKumar211195 /]<br><br>📫 How to reach me kumar.saurabh211195@gmail.com<br><br>❤️ Passionate About: Learning and exploring new things!<br><br>🌟 Fun Fact: Transitioned from engineering to a data analyst professional
 
 
 ## 🌐 Socials:
